@@ -17,6 +17,7 @@ public class Main {
         double c1, c2, c3;
         Date t1, t2, t3;
         double cost1, cost2, cost3;
+
         System.out.print("Enter c1 standard units per minute: ");
         c1 = Double.parseDouble(bufferedReader.readLine());
         System.out.print("How many minutes talk continued? ");
